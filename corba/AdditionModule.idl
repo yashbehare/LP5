@@ -1,0 +1,6 @@
+module AdditionModule {
+    interface Addition {
+        float add(in float num1, in float num2);
+    };
+};
+
